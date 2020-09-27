@@ -1,0 +1,6 @@
+User-agent: Yandex
+Allow: /
+User-agent: *
+Allow: /
+Host: kupit-akkaunt-wot-blitz.ru
+Sitemap: https://kupit-akkaunt-wot-blitz.ru/sitemap.xml
